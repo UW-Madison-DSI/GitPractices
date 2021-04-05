@@ -1,0 +1,15 @@
+  Decisions about AFDSI repository use
+
+1) Should the repositories be wide or narrow in focus
+—Narrow repositories with the Project organizing them together
+—Narrow repositories lead to redundant code
+—Cross use repositories
+
+2) What naming scheme for repositories should be used
+3) How or when should we move existing projects onto the AFDSI page
+4)How to store data:
+—.gitignore - Easy to cause errors
+—separate private repo
+—separate not Uploaded directory
+5)What is needed in a AFDSI repository template?
+6)Use of Teams and Projects in AFDSI
